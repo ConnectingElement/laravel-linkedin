@@ -21,7 +21,7 @@
         "illuminate/contracts": "~5.0",
         "illuminate/http": "~5.0",
         "illuminate/support": "~5.0",
-        "ConnectingElement/linkedin-api-client": "dev-master",
+        "happyr/linkedin-api-client": "dev-master",
         "php-http/guzzle6-adapter": "^1.1",
         "php-http/curl-client": "^1.7",
         "guzzlehttp/psr7": "^1.4",
